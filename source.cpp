@@ -24,7 +24,9 @@ int main()
 
 		break;
 	case '/':
-
+		if (b==0)
+			cout<<"Ko chia cho 0 dc"
+		else cout<<"a/b ="<<a/b;
 		break;
 	default:
 		cout << "Chon sai phep toan";
