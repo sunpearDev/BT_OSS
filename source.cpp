@@ -21,7 +21,7 @@ int main()
 		cout << "Tong la" << a-b << endl;
 		break;
 	case '*':
-
+		cout << "Tong la" << a*b << endl;
 		break;
 	case '/':
 		if (b==0)
